@@ -1,0 +1,46 @@
+/* .increment-btn {
+  background-color: #6495ed;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 16px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+.increment-btn:hover {
+  background-color: #4169e1;
+}
+
+.decrement-btn {
+  background-color: #f08080;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 16px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  font-size: 24px;
+  margin-left: 8px;
+}
+
+.decrement-btn:hover {
+  background-color: #cd5c5c;
+} */
+.toggle-btn {
+    background-color: #6495ed;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    font-size: 24px;
+  }
+  
+  .toggle-btn:hover {
+    background-color: #4169e1;
+  }
+  
